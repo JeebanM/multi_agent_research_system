@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env files
+.env
+
+# ADK artifacts
+.adk/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# venv
+adk_env/
+venv/
