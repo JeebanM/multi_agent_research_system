@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "AQ.Ab8RN6LUuxlUfV1WWTBl3YXzpcf1YxSM2pai6iCCX8QOaB4pgw"
+API_KEY = "YOUR_API_KEY"
 CX = "033e5c3852f4941d0"
 
 def google_search(query, num_results=5):
