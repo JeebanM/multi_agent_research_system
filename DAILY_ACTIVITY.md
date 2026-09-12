@@ -5,3 +5,4 @@
 [2026-03-19] feat: integrate web search retrieval and citation extraction tools
 [2026-03-20] feat: add secure credential handling and .env configuration
 [2026-03-21] chore: comprehensive unit tests, benchmark evaluation and documentation
+[2026-09-12] fix: harden input validation and error boundaries
